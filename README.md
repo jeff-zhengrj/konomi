@@ -2,5 +2,5 @@
 
 Temperature Oracle
 
-npm install
+npm install  
 npx hardhat test
